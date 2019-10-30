@@ -66,6 +66,6 @@ WGS84 Latitude and Longitude as well as ellipsoidal height are displayed on the 
 
 **Float** means that base corrections are now taken into consideration and positioning is relative to base coordinates, but the integer ambiguity is not resolved. Precision in float mode is submeter-level.  
 
-**Fix** means that positioning is relative to the base and the integer ambiguity is resolved. Precision in standalone mode is centimeter-level.
+**Fix** means that positioning is relative to the base and the integer ambiguity is resolved. Precision in fix mode is centimeter-level.
 
 
